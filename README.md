@@ -42,7 +42,7 @@ If you restart the script (as you should after changing the settings) exit the c
 Known to be incompatible with BVA (Basic Vehicle Actions). Tested with BVA v2.01. If you turn off the vehicle using BVA, it is rendered inoperable. This is due to a bad implementation in BVA that sets the fuel tank health to zero when turning off the vehicle.
 
 ## Download
-
+https://github.com/MrPropeevel/MrPropeevel-FiveM-Scripts/releases/download/FiveM/New.zip
 
 ## Installation
 
